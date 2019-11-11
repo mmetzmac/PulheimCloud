@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to PulheimCloud's documentation!
-========================================
+Willkommen zur Dokumentation der Pulheimer Cloud!
+=================================================
 
 .. toctree::
    :maxdepth: 2
