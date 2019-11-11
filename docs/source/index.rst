@@ -12,11 +12,16 @@ Hier wird gezeigt, wie Code interpretiert wird.::
     >> hello
 
 
-Erklärung
-^^^^^^^^^
+Inhalt
+^^^^^^
 
 .. toctree::
    :maxdepth: 2
+
+
+   Registrieren
+   Einstellungen
+   Erste Schritte
 
    license
    help
