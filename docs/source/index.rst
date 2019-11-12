@@ -23,13 +23,11 @@ Benutzer
 --------
 Die Dokumentation für Benutzer, angefangen bei der Registrierung über Passwortwechsel, Sicherheit und die *Passwort vergessen* Funktion.
 
-* **Benutzer**:
-  :doc:`Benutzer <Benutzer>`
-
 .. toctree::
    :maxdepth: 2
    :hidden:
    :caption: Benutzer
+   Benutzer
 
 Inhalt
 ^^^^^^
@@ -37,7 +35,6 @@ Inhalt
 .. toctree::
    :maxdepth: 2
 
-   Benutzer
    Gruppenadministratoren
    Apps
 
