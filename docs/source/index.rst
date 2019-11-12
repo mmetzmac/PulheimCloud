@@ -6,6 +6,12 @@
 Dokumentation: pulheim.cloud
 ============================
 
+.. image:: images/pc-login.PNG
+    :width: 200px
+    :align: center
+    :alt: Der Login-Bildschirm
+
+
 Hier wird gezeigt, wie Code interpretiert wird.::
 
     print 'hello'
