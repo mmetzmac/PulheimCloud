@@ -7,7 +7,7 @@ Dokumentation: pulheim.cloud
 ============================
 
 .. image:: images/pc-login.PNG
-    :width: 400px
+    :width: 600px
     :align: center
     :alt: Der Login-Bildschirm
 
