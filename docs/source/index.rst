@@ -6,6 +6,8 @@
 Dokumentation: pulheim.cloud
 ============================
 
+Pulheim.cloud verwendet das Nextcloud System. Diese Dokumentation ist für den Endbenutzer, der entweder als "normaler Benutzer" oder aber als Gruppenadministrator Zugriff hat. Gruppenadministrator ist immer derjenige, der eine Domain betreut. Er ist für die Betreuung seiner Nutzer verantwortlich. Die für den Gruppenadministrator wichtigen Kapitel sind in einer eigens für diese Gruppe erstellten Dokumentation ebenfalls hier im Web veröffentlicht.
+
 .. image:: images/pc-login.PNG
     :width: 600px
     :align: center
@@ -22,15 +24,15 @@ Inhalt
 ^^^^^^
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
 
 
-   Registrieren
-   Einstellungen
-   Erste Schritte
+   Benutzer
+   Gruppenadministratoren
+   Apps
 
-   license
-   help
+   Lizenz
+   Hilfen
 
 
 
