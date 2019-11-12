@@ -19,13 +19,23 @@ Hier wird gezeigt, wie Code interpretiert wird.::
     print 'hello'
     >> hello
 
+Benutzer
+--------
+Die Dokumentation für Benutzer, angefangen bei der Registrierung über Passwortwechsel, Sicherheit und die *Passwort vergessen* Funktion.
+
+* **Benutzer**:
+  :doc:`Benutzer <Benutzer>`
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Benutzer
 
 Inhalt
 ^^^^^^
 
 .. toctree::
    :maxdepth: 2
-
 
    Benutzer
    Gruppenadministratoren
