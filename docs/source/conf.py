@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = u'PulheimCloud'
-copyright = u'2019, Markus Metzmacher'
+copyright = u'2019, 3DGrid'
 author = u'Markus Metzmacher'
 
 # The short X.Y version
-version = u''
+version = u'1.0'
 # The full version, including alpha/beta/rc tags
-release = u'0.0.1'
+release = u'1.0.0'
 
 
 # -- General configuration ---------------------------------------------------
