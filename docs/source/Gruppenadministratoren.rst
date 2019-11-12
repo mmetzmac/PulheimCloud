@@ -1,2 +1,2 @@
-Erste Schritte
-==============
+Gruppenadministrator
+====================
