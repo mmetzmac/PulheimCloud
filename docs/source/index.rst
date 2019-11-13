@@ -17,7 +17,7 @@ Dieses Handbuch ist in mehrere Sektionen aufgeteilt. Wählen Sie unten (oder lin
 
 Benutzer
 --------
-Die Dokumentation für Benutzer, angefangen bei der Registrierung über Passwortwechsel, Sicherheit und die *Passwort vergessen* Funktion.
+Die Dokumentation für Benutzer, angefangen bei der Registrierung über Passwortwechsel, Sicherheit und die *Passwort vergessen* Funktion. Hier wird ebenfalls gezeigt, wie man sein Avatarbild ändert oder den XMPP Chat einrichtet.
 
 .. toctree::
    :maxdepth: 2
