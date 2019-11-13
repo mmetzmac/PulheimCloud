@@ -13,11 +13,7 @@ Pulheim.cloud verwendet das Nextcloud System. Diese Dokumentation ist für den E
     :align: center
     :alt: Der Login-Bildschirm
 
-
-Hier wird gezeigt, wie Code interpretiert wird.::
-
-    print 'hello'
-    >> hello
+Dieses Handbuch ist in mehrere Sektionen aufgeteilt. Wählen Sie unten (oder links im Menü) den für Sie richtigen Bereich aus.
 
 Benutzer
 --------
