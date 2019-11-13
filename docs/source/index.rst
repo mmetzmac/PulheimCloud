@@ -25,7 +25,7 @@ Die Dokumentation für Benutzer, angefangen bei der Registrierung über Passwort
 
 .. toctree::
    :maxdepth: 2
-
+   :hidden
    Benutzer
 
 Inhalt
