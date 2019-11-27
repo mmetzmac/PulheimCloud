@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Dokumentation: pulheim.cloud
+Dokumentation: pulheim.cloud V1.0
 ============================
 
 Pulheim.cloud verwendet das Nextcloud System. Diese Dokumentation ist für den Endbenutzer, der entweder als "normaler Benutzer" oder aber als Gruppenadministrator Zugriff hat. Gruppenadministrator ist immer derjenige, der eine Domain betreut. Er ist für die Betreuung seiner Nutzer verantwortlich. Die für den Gruppenadministrator wichtigen Kapitel sind in einer eigens für diese Gruppe erstellten Dokumentation ebenfalls hier im Web veröffentlicht.
