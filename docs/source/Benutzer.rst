@@ -15,6 +15,8 @@ pulheim.cloud ist ein geschlossenen System. Jeder hat die Möglichkeit, sich zu 
 Passwort
 ^^^^^^^^
 
+Sobald ein Administrator Ihren Zugriffsantrag (Registrierung) freigeschaltet hat, erhalten Sie eine E-Mail, die einen Link zur Vertigstellung der Registrierung enthält. Folgen Sie bitte diesem Link und wählen Sie einen Benutzenamen und ein Passwort.
+
 Sicherheitfunktionen
 ^^^^^^^^^^^^^^^^^^^^
 
