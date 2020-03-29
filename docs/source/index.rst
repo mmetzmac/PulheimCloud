@@ -31,6 +31,7 @@ Inhalt
 .. toctree::
    :maxdepth: 2
 
+   Benutzer
    Gruppenadministratoren
    Apps
 
