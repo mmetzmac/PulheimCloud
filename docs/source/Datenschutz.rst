@@ -167,7 +167,6 @@ Soweit wir die Verarbeitung Ihrer personenbezogenen Daten auf die Interessenabw�
 Sie können der Verarbeitung Ihrer personenbezogenen Daten für Zwecke der Werbung und Datenanalyse jederzeit widersprechen. Das Widerspruchsrecht können Sie kostenfrei ausüben. Über Ihren Werbewiderspruch können Sie uns unter folgenden Kontaktdaten informieren:
 
 Markus Metzmacher
-Aurikelweg
 50259 Pulheim
 E-Mail-Adresse: markus@metzmacher.eu
 
